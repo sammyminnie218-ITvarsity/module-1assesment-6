@@ -1,0 +1,117 @@
+body{
+    padding:0;
+    margin:0;
+}
+
+#menu{
+    width:100%;
+    height:65px;
+    text-align:center ;
+    background-color: blueviolet;
+    
+}
+
+#menu a{
+    text-decoration: none;
+    font-size: 28px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    padding-right: 2%;
+    color:white;
+}
+#menu a:hover{
+    color: rgb(38, 211, 96);
+}
+
+#store-name{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 800;
+    font-family: cursive;
+    padding-bottom: 50px;
+    
+}
+
+#store-name h1{
+    text-shadow: tomato;
+
+}
+
+.gallery a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+    width: 85%;
+    padding-bottom: 20px;
+}
+
+.gallery img{
+    width: 70%;
+    position:relative;
+    height: 70%;
+    border: 5px solid pink;
+}
+
+.gallery img:hover{
+    border: 5px solid blue;
+}
+
+
+
+
+
+.gallery{
+    padding-left: 8%;
+}
+
+h2{
+    font-family: fantasy;
+    font-size: 40px;
+    text-align: center;
+}
+
+#specs{
+    width: 50%;
+    margin-left: 20%;
+    margin-top: 40px;
+    border: 5px solid purple;
+    text-align: center;
+}
+
+#specs p{
+    font-size: 20px;
+}
+
+table{
+    border-collapse: collapse;
+    margin-left: 25%;
+    margin-top: 50px;
+    width: 40%;
+}
+
+#pictures{
+    margin-top: 20px;
+}
+
+#pictures img{
+    width: 50%;
+}
+
+#buy a {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90px;
+    height: 40px;
+    margin-top: 50px;
+    border: 2px solid yellow;
+    font-size: 20px;
+    font-weight:bold;
+    text-align: center;
+    display: block;
+    margin-bottom: 20px;
+    text-decoration: none;
+    
+    
+}
